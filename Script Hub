@@ -1,0 +1,3 @@
+if game.PlaceId == 6115888629 then
+  loadstring(game:HttpGet(('https://raw.githubusercontent.com/ImNotDoris/NAYPRAM-SCRIPT/main/Button%20Simulator%20Dimension'), true))()
+end
